@@ -1,0 +1,21 @@
+{
+    "name": "Shoot Out",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "controller": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
